@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <a href="https://github.com/DianaCadenaMoreno/DianaCadenaMoreno%22%3E](https://github.com/mayra-Sanchez
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=DianaCadenaMoreno&show_icons=true&theme=compact%22/%3E
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianaCadenaMoreno&layout=compact%22/%3E
+</div>
